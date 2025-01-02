@@ -1,0 +1,44 @@
+details {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Courier New", Courier, monospace;
+}
+
+summary {
+  font-family: Courier, monospace;
+  cursor: pointer;
+}
+
+.detroit {
+  color: rgb(0, 89, 255);
+  text-shadow: 0 0 5px rgb(0, 149, 255);
+}
+
+.witcher {
+  color: rgb(229, 2, 2);
+  text-shadow: 0 0 5px rgb(255, 60, 0);
+}
+
+.sus {
+  color: greenyellow;
+  text-shadow: 0 0 5px greenyellow;
+}
+
+.kitten {
+  color: rgb(0, 255, 170);
+  text-shadow: 0 0 5px rgb(0, 255, 170);
+}
+
+.home {
+  color: brown;
+  text-shadow: 0 0 5px brown;
+}
+
+.pet {
+  color: rgb(226, 148, 70);
+  text-shadow: rgb(226, 148, 70);
+}
+
+.jopa {
+  text-align: center;
+}
